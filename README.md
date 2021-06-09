@@ -1,8 +1,8 @@
 ## Quick Start
 
-感谢使用我的博客主题，下面跟随一些简单操作快速生成你的站点/文档/展示页面吧~无需命令行~
+私のブログ作成法を使用することに感謝します、この作成法の書き方を試すと少し～は行の～を命令する必要がなくあなたのサイト／ファイル／展示ページを簡単に操作する事ができサクサクと作成できます
 
-[在 Github 上阅读此页](https://github.com/wu-kan/jekyll-theme-WuK)
+[Github](https://github.com/wu-kan/jekyll-theme-WuK)
 
 ![License](https://img.shields.io/github/license/wu-kan/jekyll-theme-WuK)![commit-activity](https://img.shields.io/github/commit-activity/m/wu-kan/jekyll-theme-WuK)![last-commit](https://img.shields.io/github/last-commit/wu-kan/jekyll-theme-WuK)![CountLanguage](https://img.shields.io/github/languages/count/wu-kan/jekyll-theme-WuK)![TopLanguage](https://img.shields.io/github/languages/top/wu-kan/jekyll-theme-WuK)![CodeSize](https://img.shields.io/github/languages/code-size/wu-kan/jekyll-theme-WuK)![RepoSize](https://img.shields.io/github/repo-size/wu-kan/jekyll-theme-WuK)![Downloads](https://img.shields.io/github/downloads/wu-kan/jekyll-theme-WuK/total)![Watchers](https://img.shields.io/github/watchers/wu-kan/jekyll-theme-WuK)![contributors](https://img.shields.io/github/contributors-anon/wu-kan/jekyll-theme-WuK)![Release](https://img.shields.io/github/v/release/wu-kan/jekyll-theme-WuK)![release-date](https://img.shields.io/github/release-date/wu-kan/jekyll-theme-WuK)
 
@@ -10,15 +10,14 @@
 
 ### 第一步
 
-点这个链接<https://github.com/wu-kan/wu-kan.github.io/fork>，把[示例站点](https://wu-kan.cn) fork 到你的仓库。注意，fork 的是示例站点，fork 主题仓库是不完整的！
-
+<https://github.com/wu-kan/wu-kan.github.io/fork>，把[示例站点](https://wu-kan.cn) このサイトからフォークしてください
 <!-- .slide vertical=true -->
 
 ### 第二步
 
-在你 Fork 之后的仓库里，选择 Setting，将仓库名改成`your-name.github.io`。
+あなたのＦｏｒｋ後の倉庫に、Ｓｅｔｔｉｎｇを選んで、倉庫の名を変えます`your-name.github.io`。
 
-例如这里我用来示例的 GitHub 小号是 @Mizuno-Ai ，改的名字就是`Mizuno-Ai.github.io`。
+例：私は＠Ｍｉｚｕｎｏ－Ａｉに変更しました`Mizuno-Ai.github.io`。
 
 <!-- .slide vertical=true -->
 
