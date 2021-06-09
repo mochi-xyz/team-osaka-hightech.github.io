@@ -17,7 +17,7 @@
 
 あなたのＦｏｒｋ後の倉庫に、Ｓｅｔｔｉｎｇを選んで、倉庫の名を変えます`your-name.github.io`。
 
-例：私は＠Ｍｉｚｕｎｏ－Ａｉに変更しました`Mizuno-Ai.github.io`。
+例：私＠Ｍｉｚｕｎｏ－Ａｉに変更しました`Mizuno-Ai.github.io`。
 
 <!-- .slide vertical=true -->
 
