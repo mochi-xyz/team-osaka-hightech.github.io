@@ -40,4 +40,12 @@
 なお、江戸には一千を超える仏教寺院が存在した。
 
 SUGOI　ATUI
+<<<<<<< HEAD
 NEMUI
+=======
+NEMUI
+ひとつ書いてみましょう
+AAA
+BBB
+CCC
+>>>>>>> dev
